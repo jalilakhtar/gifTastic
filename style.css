@@ -1,0 +1,28 @@
+.butt {
+  margin: 5px;
+}
+
+.rating {
+  margin: 0px 0px 20px 0px;
+}
+
+.search {
+  text-align: center;
+  width: 200px;
+  margin: 0 auto;
+
+}
+
+#adding {
+  text-align: center;
+  margin-top: 20px !important;
+}
+
+#searchbox {
+  height: 26px;
+}
+
+#searchbutton {
+  height: 26px;
+}
+
